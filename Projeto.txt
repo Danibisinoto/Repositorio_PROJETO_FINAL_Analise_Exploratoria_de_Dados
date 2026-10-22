@@ -1,0 +1,50 @@
+PROJETO – ANÁLISE EXPLORATÓRIA DE DADOS
+
+CENÁRIO
+Você é um analista de dados contratado por uma loja de varejo com o objetivo de
+analisar os dados de vendas e fornecer insights que possam ajudar a melhorar as operações e o
+desempenho da loja.
+
+CONJUNTO DE DADOS
+Para isso, você teve acesso aos dados que incluem informações diárias sobre vendas,
+categorias de produtos, preços, quantidades vendidas, descontos aplicados e algumas
+características de clientes (idade e renda) do último ano de operação da empresa. Os dados estão
+no arquivo vendas_supermercado_com_cliente.csv.
+
+OBJETIVO
+Sua missão é avaliar os dados e responder a 10 perguntas levantadas pela equipe de
+marketing, que estão listadas abaixo:
+
+1. Quais foram as categorias produtos mais vendidos e em quais meses eles tiveram o
+maior pico de vendas?
+
+2. Qual a média de vendas diárias por categoria de produto?
+
+3. Quais produtos apresentam a maior sazonalidade nas vendas (ex.: frutas e vegetais,
+sorvetes)?
+
+4. Quais as faixas etárias contribuíram mais para as vendas totais? Para responder essa
+pergunta, crie uma coluna com a faixa etária, considerando: entre 18 e 35 (jovem), entre
+36 e 59 (adulto) e acima de 60 anos (idoso).
+
+5. Qual é a relação entre a idade dos clientes e a categoria de produto mais vendida para
+cada?
+
+6. Qual a distribuição das vendas ao longo dos dias da semana?
+
+7. Como as vendas mensais se comparam antes e durante a Black Friday?
+
+8. Qual é o ticket médio (valor médio das vendas) por faixa etária e como ele varia entre
+diferentes categorias de produto?
+
+9. Comparando a semana da “Black Friday” com a do Natal, qual semana a empresa teve
+melhores desempenhos em relação à média de vendas?
+
+10.Qual foi o impacto das promoções (descontos aplicados) nas vendas? Quais produtos
+tiveram o maior aumento nas vendas durante as promoções?
+
+INFORMAÇÕES PARA A ENTREGA:
+A entrega do mesmo é para ser feita na pasta de projetos da Ada.
+
+Entregue em um arquivo .ipynb com o resultado de cada célula de código mostrando o
+resultado obtido para cada pergunta.
